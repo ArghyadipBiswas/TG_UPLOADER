@@ -31,3 +31,5 @@ do
     python3 up.py $PWD/dl/*0$a
     ((a++))
 done
+
+rm -rf $PWD/dl
