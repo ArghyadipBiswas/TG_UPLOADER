@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 mkdir dl && chmod 777 dl
 DownloadDir="$PWD/dl/"
 read link
@@ -12,7 +13,7 @@ elif [[ $link == "https://drive.google.com/"* ]]; then
 else
     aria2c --max-connection-per-server=16 -d $DownloadDir $link
 fi
-
+clear
 filesize=$(stat -c %s *.zip)
 if [ $filesize -gt 2097152000 ];
 then
