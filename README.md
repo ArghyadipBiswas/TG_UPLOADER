@@ -18,3 +18,9 @@ chat_id= put your telegram id after '='.
 
 # Query
 if you face any issue you can contact me on telegram by clicking <a href=https://t.me/IamRooot>here</a> 
+
+
+# Credits
+Thanks to <a href=https://github.com/pyrogram>pyrogram</a> for library
+
+<h2>Dont forget to star🌟 and fork the repository</h2>
