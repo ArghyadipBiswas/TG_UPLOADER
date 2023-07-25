@@ -1,4 +1,4 @@
 tgcrypto
 gdown
-pyrogram
+pyrogram==2.0.66
 time
