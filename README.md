@@ -6,3 +6,4 @@ Setup tutorial
 git clone https://github.com/ArghyadipBiswas/TG_UPLOADER && cd TG_UPLOADER && chmod 777 * && ./install.sh
 ./main.sh
 ```
+# Settings Credentials
