@@ -40,6 +40,7 @@ then
         ((a++))
     done
 else
+    cd ..
     echo "No need to split! Uploading..."
     python3 up.py $PWD/dl/$filename
 fi
